@@ -1,0 +1,13 @@
+.git
+build/
+dist/
+node_modules/
+.idea/
+.vscode/
+logs/
+coverage/
+.nyc_output/
+secrets/
+.DS_Store
+*.log
+yarn.lock
