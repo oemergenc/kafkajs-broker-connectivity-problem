@@ -10,7 +10,7 @@ COPY . .
 RUN npm run build;
 
 FROM node:12
-
+# some comment
 RUN apt-get update
 RUN apt-get install -y --no-install-recommends \
     librdkafka-dev \
