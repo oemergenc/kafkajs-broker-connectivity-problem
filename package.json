@@ -1,7 +1,7 @@
 {
   "name": "kafkajs-broker-connectivity-problem",
   "version": "0.0.1",
-  "description": "a problem with kafkajs",
+  "description": "a problem with kafkajs broker connection",
   "author": {
     "name": "Oemer Genc",
     "email": "oemergenc@gmail.com"
