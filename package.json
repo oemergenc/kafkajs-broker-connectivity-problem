@@ -58,7 +58,7 @@
     "eslint": "^7.4.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.22.0",
-    "grpc": "^1.24.3",
+    "grpc": "^1.24.9",
     "jest": "^26.1.0",
     "jest-json-schema": "^2.1.0",
     "jest-junit": "^11.0.1",
