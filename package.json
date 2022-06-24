@@ -63,7 +63,7 @@
     "jest-json-schema": "^2.1.0",
     "jest-junit": "^11.0.1",
     "jest-mock-extended": "^1.0.9",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "kafka-node": "^5.0.0",
     "parse-prometheus-text-format": "^1.1.1",
     "parse5": "^6.0.0",
